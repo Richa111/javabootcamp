@@ -47,11 +47,11 @@ public class Quiz {
             System.out.println("Wow, you know your stuff");
         }
 
-        if ((score<=15) && (score>=5)){
+            else if ((score<=15) && (score>=5)){
             System.out.println("Not bad!");
         }
 
-        if (score<5){
+            else {
             System.out.println("better luck next time");
         }
     }
