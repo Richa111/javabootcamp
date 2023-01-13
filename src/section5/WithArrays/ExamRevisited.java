@@ -1,4 +1,4 @@
-package section5.Array;
+package section5.WithArrays;
 
 public class ExamRevisited {
     //6.2

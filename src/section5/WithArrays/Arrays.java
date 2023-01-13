@@ -1,8 +1,6 @@
-package section5.Array;
+package section5.WithArrays;
 
 public class Arrays {
-    public static boolean toString;
-
     //6.1
     public static void main(String[] args) {
         String seats[] ={"Harry","Neville","Ron","Hermoine","Seamus"};
@@ -10,8 +8,5 @@ public class Arrays {
         for (int i=0; i<seats.length; i++){
             System.out.println(seats[i] + " you will take seat " +i);
         }
-    }
-
-    public static boolean toString(String[] aisles) {
     }
 }

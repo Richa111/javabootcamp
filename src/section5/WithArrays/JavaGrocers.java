@@ -1,4 +1,4 @@
-package section5.Array;
+package section5.WithArrays;
 
 import java.util.Scanner;
 

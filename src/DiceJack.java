@@ -33,7 +33,6 @@ public class DiceJack {
         double randomNumber = Math.random()*6;
         randomNumber+=1;
         return (int)randomNumber;
-
     }
 
     public static void checkWin(int sumOfDiceRolls, int sumOfNumber){
